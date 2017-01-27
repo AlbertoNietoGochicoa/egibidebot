@@ -43,4 +43,19 @@ Pasos a seguir:
 
 	```bash
 	git push heroku
+
 	```		
+
+5. Para poner el servidor en escucha en localHost:
+
+...../egibidebot/node server.js
+
+
+
+
+
+
+
+
+
+
