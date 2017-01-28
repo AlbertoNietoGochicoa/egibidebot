@@ -44,7 +44,7 @@ app.get("/plazo/:fecha", function (req, res) {
     // Crear el objeto con la respuesta
     var respuesta = [
         {
-            text: "Faltan " + dias + " días...",
+            text: "Todavia tienes " + dias + " días para poder matricularte, corre al centro más cercano...",
         }
     ];
 
